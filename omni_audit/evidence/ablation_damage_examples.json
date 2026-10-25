@@ -1,0 +1,62 @@
+[
+ {
+  "retained_pct": 6,
+  "strict": "global, binds every section: build executable code and execute it, never describe it; every ver",
+  "ablation": "global, executed functionality"
+ },
+ {
+  "retained_pct": 17,
+  "strict": "preserve input provenance + original hashes.",
+  "ablation": "preserve"
+ },
+ {
+  "retained_pct": 21,
+  "strict": "both environments share compatible: source normalization+fingerprinting; static scanning+functi",
+  "ablation": "both normalization+fingerprinting; API-contract evidence/finding schemas;"
+ },
+ {
+  "retained_pct": 21,
+  "strict": "key: plain=W3 must build; x=W4 forbidden absolute; G=W4 gate, that stage fails unless met; appl",
+  "ablation": "key: gate, output contract execution law"
+ },
+ {
+  "retained_pct": 24,
+  "strict": "treat every analyzer as executable integration declaring explicit availability check supported ",
+  "ablation": "treat check inputs limits"
+ },
+ {
+  "retained_pct": 25,
+  "strict": "record per gate: ID | applicability | prerequisites | source evidence | executed procedure | en",
+  "ablation": "record ID applicability procedure outcome cause unresolved dependencies"
+ },
+ {
+  "retained_pct": 29,
+  "strict": "\u00a74 security + dataflow + supply-chain verification",
+  "ablation": "\u00a74 dataflow"
+ },
+ {
+  "retained_pct": 29,
+  "strict": "\u00a75 runtime + authorization + integration verification",
+  "ablation": "\u00a75 verification"
+ },
+ {
+  "retained_pct": 29,
+  "strict": "\u00a79 GitHub CI \u2194 ChatGPT/Python functional integration",
+  "ablation": "\u00a79 integration"
+ },
+ {
+  "retained_pct": 31,
+  "strict": "definitions, each over applicable verification: PASS=executed + satisfied stated acceptance con",
+  "ablation": "definitions, failed because identified prerequisite unavailable inapplicable. evidence inspecti"
+ },
+ {
+  "retained_pct": 31,
+  "strict": "identify most advanced functioning implementation + superior functions contained inside otherwi",
+  "ablation": "identify contained otherwise weaker"
+ },
+ {
+  "retained_pct": 32,
+  "strict": "inventory+inspect ALL seven original omni-audit files + forensic bundle + complete 28-finding l",
+  "ablation": "inventory+inspect bundle ledger available subsequent integrated"
+ }
+]

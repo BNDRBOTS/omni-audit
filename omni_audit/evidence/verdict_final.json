@@ -1,0 +1,134 @@
+{
+ "deliverable": "OMNI-AUDIT_COMPRESSED.md",
+ "source_sha256": "d2dac122274b571524321d2a88050888b3207a7c9238dc62a208f6c08de3bf3c",
+ "compressed_sha256": "f623f13e93116f5868dda554b32383fc20c985b4d82dc8298506b2b0a4fb1efc",
+ "V1_stem_coverage": {
+  "source_stems": 777,
+  "covered": 777,
+  "uncovered": [],
+  "ratio": 1.0,
+  "status": "PASS"
+ },
+ "V2_directive_anchoring": {
+  "atoms": 199,
+  "weak": 0,
+  "mean_coverage": 0.9959,
+  "min_coverage": 0.8,
+  "status": "PASS"
+ },
+ "V3_urgency_tiers": {
+  "tiers": {
+   "W1/ENUMERATED-DETAIL": {
+    "atoms": 6,
+    "fully_preserved": 6,
+    "mean_anchor_coverage": 1.0
+   },
+   "W2/CONDITIONAL-APPLICABLE": {
+    "atoms": 3,
+    "fully_preserved": 3,
+    "mean_anchor_coverage": 1.0
+   },
+   "W3/MANDATORY-BUILD": {
+    "atoms": 140,
+    "fully_preserved": 140,
+    "mean_anchor_coverage": 0.9966
+   },
+   "W4/PROHIBITION-OR-GATE": {
+    "atoms": 33,
+    "fully_preserved": 33,
+    "mean_anchor_coverage": 0.9912
+   },
+   "W5/LAW-ABSOLUTE": {
+    "atoms": 17,
+    "fully_preserved": 17,
+    "mean_anchor_coverage": 0.9972
+   }
+  },
+  "preserved": {
+   "W1/ENUMERATED-DETAIL": 1.0,
+   "W2/CONDITIONAL-APPLICABLE": 1.0,
+   "W3/MANDATORY-BUILD": 1.0,
+   "W4/PROHIBITION-OR-GATE": 1.0,
+   "W5/LAW-ABSOLUTE": 1.0
+  },
+  "status": "PASS"
+ },
+ "V4_literals_pipelines": {
+  "status": "PASS"
+ },
+ "V5_structure": {
+  "sections": 14,
+  "gates": 11,
+  "status": "PASS"
+ },
+ "metrics": {
+  "chars": {
+   "source": 20140,
+   "compressed": 19111,
+   "retained_pct": 94.89,
+   "reduction_pct": 5.11
+  },
+  "words": {
+   "source": 2320,
+   "compressed": 2173,
+   "retained_pct": 93.66,
+   "reduction_pct": 6.34
+  },
+  "lines": {
+   "source": 291,
+   "compressed": 114,
+   "retained_pct": 39.18,
+   "reduction_pct": 60.82
+  },
+  "o200k_base": {
+   "source": 3491,
+   "compressed": 2928,
+   "retained_pct": 83.87,
+   "reduction_pct": 16.13
+  },
+  "cl100k_base": {
+   "source": 3504,
+   "compressed": 2924,
+   "retained_pct": 83.45,
+   "reduction_pct": 16.55
+  }
+ },
+ "per_section_tokens": {
+  "source": {
+   "0": 203,
+   "1": 238,
+   "2": 237,
+   "3": 246,
+   "4": 240,
+   "5": 274,
+   "6": 274,
+   "7": 151,
+   "8": 302,
+   "9": 181,
+   "10": 169,
+   "11": 335,
+   "12": 181,
+   "13": 239,
+   "14": 325
+  },
+  "compressed": {
+   "0": 265,
+   "1": 185,
+   "2": 181,
+   "3": 184,
+   "4": 187,
+   "5": 214,
+   "6": 222,
+   "7": 112,
+   "8": 233,
+   "9": 154,
+   "10": 142,
+   "11": 259,
+   "12": 130,
+   "13": 213,
+   "14": 263
+  }
+ },
+ "independent_verifier_exit_code": 0,
+ "OVERALL": "PASS"
+}

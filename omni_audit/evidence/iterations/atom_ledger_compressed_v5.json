@@ -1,0 +1,3581 @@
+[
+ {
+  "atom_id": "A000.S0",
+  "section": "0",
+  "kind": "directive",
+  "weight": 1,
+  "weight_label": "W1/ENUMERATED-DETAIL",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 1.0,
+  "hoisted": true,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L001",
+   "L001"
+  ],
+  "missing_global": [],
+  "text": "OMNI-AUDIT \u2014 CANONICAL ARCHITECTURE INTEGRATION & EXECUTABLE COMPLETION MANDATE"
+ },
+ {
+  "atom_id": "A001.S0",
+  "section": "0",
+  "kind": "label",
+  "weight": 1,
+  "weight_label": "W1/ENUMERATED-DETAIL",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 1.0,
+  "hoisted": true,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L002",
+   "L004"
+  ],
+  "missing_global": [],
+  "text": "ROLE: Principal Software Architect, Forensic Code Auditor, Security Engineer, Integration Engineer, and Adversarial Verification Executor."
+ },
+ {
+  "atom_id": "A002.S0",
+  "section": "0",
+  "kind": "label",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 1.0,
+  "hoisted": true,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L003",
+   "L005"
+  ],
+  "missing_global": [],
+  "text": "MODE: SOURCE-FIRST \u2192 FORENSIC RECONCILIATION \u2192 ARCHITECTURAL INTEGRATION \u2192 EXECUTABLE IMPLEMENTATION \u2192 ADVERSARIAL VERIFICATION \u2192 REPAIR \u2192 VERIFIED DELIVERY."
+ },
+ {
+  "atom_id": "A003.S0",
+  "section": "0",
+  "kind": "label",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 0.9535,
+  "global_only": 1.0,
+  "hoisted": true,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L005",
+   "L007"
+  ],
+  "missing_global": [],
+  "text": "OBJECTIVE: Produce ONE maximally capable, integrated, executable Omni-Audit by advancing the strongest verified existing architecture. Preserve established functionality; incorporate superior compatible functions from all seven original files, the uploaded forensic bundle, and subsequent implementations; resolve the complete 28-finding engineering ledger; and implement additional technically justified improvements without creating a competing system."
+ },
+ {
+  "atom_id": "A004.S0",
+  "section": "0",
+  "kind": "label",
+  "weight": 5,
+  "weight_label": "W5/LAW-ABSOLUTE",
+  "coverage": 0.9524,
+  "local_core": 0.9524,
+  "global_only": 0.9524,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L005",
+   "L007"
+  ],
+  "missing_global": [],
+  "text": "OUTPUT CONTRACT: Deliver functioning, tested source code and its verification evidence. Comparisons, plans, prompts, explanations, partial prototypes, or recommendations NEVER substitute for requested executable functionality."
+ },
+ {
+  "atom_id": "A005.S1",
+  "section": "1",
+  "kind": "section",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.4,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L008",
+   "L008"
+  ],
+  "missing_global": [],
+  "text": "1. SOURCE AUTHORITY & BASELINE RECONCILIATION"
+ },
+ {
+  "atom_id": "A006.S1",
+  "section": "1",
+  "kind": "numitem",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.8333,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L008",
+   "L009"
+  ],
+  "missing_global": [],
+  "text": "Inventory and inspect ALL seven original Omni-Audit files, the forensic bundle, its complete 28-finding ledger, and all available subsequent integrated implementations."
+ },
+ {
+  "atom_id": "A007.S1",
+  "section": "1",
+  "kind": "numitem",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 0.9375,
+  "local_core": 0.9375,
+  "global_only": 0.375,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L008",
+   "L010"
+  ],
+  "missing_global": [],
+  "text": "Resolve renamed files, duplicates, modifications, and version lineage through SHA-256, complete source comparison, and functional evidence."
+ },
+ {
+  "atom_id": "A008.S1",
+  "section": "1",
+  "kind": "numitem",
+  "weight": 4,
+  "weight_label": "W4/PROHIBITION-OR-GATE",
+  "coverage": 1.0,
+  "local_core": 0.8889,
+  "global_only": 0.3333,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L009",
+   "L011"
+  ],
+  "missing_global": [],
+  "text": "Never infer superiority from filenames, timestamps, file size, or version labels."
+ },
+ {
+  "atom_id": "A009.S1",
+  "section": "1",
+  "kind": "numitem",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.5,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L010",
+   "L012"
+  ],
+  "missing_global": [],
+  "text": "Identify the most advanced functioning implementation and the superior functions contained in otherwise weaker implementations."
+ },
+ {
+  "atom_id": "A010.S1",
+  "section": "1",
+  "kind": "numitem",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.6,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L011",
+   "L013"
+  ],
+  "missing_global": [],
+  "text": "Establish the latest verified canonical baseline."
+ },
+ {
+  "atom_id": "A011.S1",
+  "section": "1",
+  "kind": "numitem",
+  "weight": 4,
+  "weight_label": "W4/PROHIBITION-OR-GATE",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.3846,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L011",
+   "L013"
+  ],
+  "missing_global": [],
+  "text": "Retain the existing GitHub Actions orchestration architecture unless direct evidence establishes a necessary localized architectural correction."
+ },
+ {
+  "atom_id": "A012.S1",
+  "section": "1",
+  "kind": "numitem",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.3571,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L012",
+   "L014"
+  ],
+  "missing_global": [],
+  "text": "Map every distinct capability, dependency, defect, regression, unresolved relationship, and applicable ledger finding to its source and implementation destination."
+ },
+ {
+  "atom_id": "A013.S1",
+  "section": "1",
+  "kind": "numitem",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 0.3333,
+  "global_only": 1.0,
+  "hoisted": true,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L011",
+   "L013"
+  ],
+  "missing_global": [],
+  "text": "Preserve verified functionality."
+ },
+ {
+  "atom_id": "A014.S1",
+  "section": "1",
+  "kind": "numitem",
+  "weight": 4,
+  "weight_label": "W4/PROHIBITION-OR-GATE",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.1667,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L013",
+   "L015"
+  ],
+  "missing_global": [],
+  "text": "Consolidate overlapping implementations only after confirming behavioral equivalence."
+ },
+ {
+  "atom_id": "A015.S1",
+  "section": "1",
+  "kind": "numitem",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.0,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L013",
+   "L015"
+  ],
+  "missing_global": [],
+  "text": "Replace defective mechanisms without removing unrelated capabilities."
+ },
+ {
+  "atom_id": "A016.S1",
+  "section": "1",
+  "kind": "numitem",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 0.875,
+  "local_core": 0.875,
+  "global_only": 0.625,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L014",
+   "L016"
+  ],
+  "missing_global": [],
+  "text": "Reconcile conflicting findings using source evidence and executed tests."
+ },
+ {
+  "atom_id": "A017.S1",
+  "section": "1",
+  "kind": "numitem",
+  "weight": 4,
+  "weight_label": "W4/PROHIBITION-OR-GATE",
+  "coverage": 1.0,
+  "local_core": 0.8889,
+  "global_only": 0.5556,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L014",
+   "L016"
+  ],
+  "missing_global": [],
+  "text": "Never treat previous audit conclusions or test claims as proof without verification."
+ },
+ {
+  "atom_id": "A018.S1",
+  "section": "1",
+  "kind": "gate",
+  "weight": 4,
+  "weight_label": "W4/PROHIBITION-OR-GATE",
+  "coverage": 1.0,
+  "local_core": 0.9091,
+  "global_only": 0.6364,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L015",
+   "L017"
+  ],
+  "missing_global": [],
+  "text": "GATE: Every source and ledger finding is accounted for; canonical selection and integration decisions have reproducible evidence."
+ },
+ {
+  "atom_id": "A019.S2",
+  "section": "2",
+  "kind": "section",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.6667,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L018",
+   "L018"
+  ],
+  "missing_global": [],
+  "text": "2. ARCHITECTURAL INTEGRATION"
+ },
+ {
+  "atom_id": "A020.S2",
+  "section": "2",
+  "kind": "directive",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.6,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L018",
+   "L019"
+  ],
+  "missing_global": [],
+  "text": "Preserve and strengthen the existing execution chain:"
+ },
+ {
+  "atom_id": "A021.S2",
+  "section": "2",
+  "kind": "pipeline",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.3462,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L018",
+   "L019"
+  ],
+  "missing_global": [],
+  "text": "Repository discovery \u2192 source/manifest analysis \u2192 static verification \u2192 language/dependency gates \u2192 API/security/integration analysis \u2192 applicable runtime verification \u2192 gate reconciliation \u2192 forensic reporting \u2192 CI disposition/artifact delivery."
+ },
+ {
+  "atom_id": "A022.S2",
+  "section": "2",
+  "kind": "directive",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 0.0,
+  "global_only": 1.0,
+  "hoisted": true,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L018",
+   "L018"
+  ],
+  "missing_global": [],
+  "text": "Implement:"
+ },
+ {
+  "atom_id": "A023.S2",
+  "section": "2",
+  "kind": "bullet",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.1,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L018",
+   "L020"
+  ],
+  "missing_global": [],
+  "text": "Shared, bounded, content-addressed source analysis rather than redundant traversals."
+ },
+ {
+  "atom_id": "A024.S2",
+  "section": "2",
+  "kind": "bullet",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.2353,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L018",
+   "L020"
+  ],
+  "missing_global": [],
+  "text": "Canonical source manifest with paths, SHA-256 hashes, sizes, types, provenance, symbols, functions, imports, relationships, and inspection status."
+ },
+ {
+  "atom_id": "A025.S2",
+  "section": "2",
+  "kind": "bullet",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.2857,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L018",
+   "L020"
+  ],
+  "missing_global": [],
+  "text": "Reusable normalized evidence and deterministic identifiers across compatible analyzers."
+ },
+ {
+  "atom_id": "A026.S2",
+  "section": "2",
+  "kind": "bullet",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.1053,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L018",
+   "L020"
+  ],
+  "missing_global": [],
+  "text": "Multi-root, multi-language discovery covering applicable JavaScript, TypeScript, Python, Go, Rust, shell, configuration, infrastructure, database, and deployment sources."
+ },
+ {
+  "atom_id": "A027.S2",
+  "section": "2",
+  "kind": "bullet",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.0833,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L018",
+   "L020"
+  ],
+  "missing_global": [],
+  "text": "Dependency-aware analysis and selective invalidation without overlooking unchanged files involved in changed relationships."
+ },
+ {
+  "atom_id": "A028.S2",
+  "section": "2",
+  "kind": "bullet",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.375,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L018",
+   "L020"
+  ],
+  "missing_global": [],
+  "text": "Explicit applicability, prerequisites, coverage, and unresolved dependencies for each verification gate."
+ },
+ {
+  "atom_id": "A029.S2",
+  "section": "2",
+  "kind": "bullet",
+  "weight": 4,
+  "weight_label": "W4/PROHIBITION-OR-GATE",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.1818,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L019",
+   "L021"
+  ],
+  "missing_global": [],
+  "text": "Minimal sufficient changes to established functionality; no unrelated framework, duplicate orchestrator, or unnecessary infrastructure."
+ },
+ {
+  "atom_id": "A030.S2",
+  "section": "2",
+  "kind": "gate",
+  "weight": 4,
+  "weight_label": "W4/PROHIBITION-OR-GATE",
+  "coverage": 0.9375,
+  "local_core": 0.9375,
+  "global_only": 0.3125,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L020",
+   "L022"
+  ],
+  "missing_global": [],
+  "text": "GATE: Original functional contracts remain intact; integrated capabilities use one authoritative evidence model and avoid redundant or contradictory analysis."
+ },
+ {
+  "atom_id": "A031.S3",
+  "section": "3",
+  "kind": "section",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.4,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L023",
+   "L023"
+  ],
+  "missing_global": [],
+  "text": "3. STATIC ANALYSIS & CONTRACT VERIFICATION"
+ },
+ {
+  "atom_id": "A032.S3",
+  "section": "3",
+  "kind": "directive",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 0.8571,
+  "global_only": 0.5714,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L023",
+   "L024"
+  ],
+  "missing_global": [],
+  "text": "Implement executable, source-backed discovery and verification of:"
+ },
+ {
+  "atom_id": "A033.S3",
+  "section": "3",
+  "kind": "bullet",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.0833,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L023",
+   "L024"
+  ],
+  "missing_global": [],
+  "text": "Application roots, entrypoints, imports, exports, classes, symbols, functions, and inter-file relationships."
+ },
+ {
+  "atom_id": "A034.S3",
+  "section": "3",
+  "kind": "bullet",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.1667,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L023",
+   "L024"
+  ],
+  "missing_global": [],
+  "text": "Package managers, lockfiles, direct/transitive dependencies, tests, build scripts, and runtime requirements."
+ },
+ {
+  "atom_id": "A035.S3",
+  "section": "3",
+  "kind": "bullet",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.0,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L023",
+   "L024"
+  ],
+  "missing_global": [],
+  "text": "Authentication, authorization, persistence, workers, queues, schedulers, migrations, and deployment configurations."
+ },
+ {
+  "atom_id": "A036.S3",
+  "section": "3",
+  "kind": "bullet",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.0909,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L023",
+   "L024"
+  ],
+  "missing_global": [],
+  "text": "Frontend requests and backend API definitions, including HTTP verbs, complete router prefixes, nested/mounted routers, parameterized paths, supported framework conventions, and resolvable dynamic construction."
+ },
+ {
+  "atom_id": "A037.S3",
+  "section": "3",
+  "kind": "bullet",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.1875,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L023",
+   "L024"
+  ],
+  "missing_global": [],
+  "text": "Missing endpoints, HTTP-method mismatches, incompatible request/response contracts where analyzable, unused routes, and unresolved calls."
+ },
+ {
+  "atom_id": "A038.S3",
+  "section": "3",
+  "kind": "bullet",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.1,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L023",
+   "L024"
+  ],
+  "missing_global": [],
+  "text": "Git changes, cross-file dependencies, affected functionality, and risk classifications."
+ },
+ {
+  "atom_id": "A039.S3",
+  "section": "3",
+  "kind": "directive",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.0,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L023",
+   "L025"
+  ],
+  "missing_global": [],
+  "text": "Use syntax-aware or framework-aware resolution when necessary."
+ },
+ {
+  "atom_id": "A040.S3",
+  "section": "3",
+  "kind": "directive",
+  "weight": 4,
+  "weight_label": "W4/PROHIBITION-OR-GATE",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.1667,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L023",
+   "L025"
+  ],
+  "missing_global": [],
+  "text": "Regex-only detection must not masquerade as semantic verification."
+ },
+ {
+  "atom_id": "A041.S3",
+  "section": "3",
+  "kind": "directive",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.1429,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L024",
+   "L026"
+  ],
+  "missing_global": [],
+  "text": "Distinguish CONFIRMED MATCH, CONFIRMED MISMATCH, UNRESOLVED, and NOT ANALYZED as applicable."
+ },
+ {
+  "atom_id": "A042.S3",
+  "section": "3",
+  "kind": "gate",
+  "weight": 4,
+  "weight_label": "W4/PROHIBITION-OR-GATE",
+  "coverage": 1.0,
+  "local_core": 0.9444,
+  "global_only": 0.3889,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L025",
+   "L027"
+  ],
+  "missing_global": [],
+  "text": "GATE: Identical paths with incompatible methods fail verification; prefixed and parameterized routes resolve correctly; dynamic relationships never pass without sufficient evidence."
+ },
+ {
+  "atom_id": "A043.S4",
+  "section": "4",
+  "kind": "section",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.2857,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L028",
+   "L028"
+  ],
+  "missing_global": [],
+  "text": "4. SECURITY, DATAFLOW & SUPPLY-CHAIN VERIFICATION"
+ },
+ {
+  "atom_id": "A044.S4",
+  "section": "4",
+  "kind": "directive",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.5556,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L029",
+   "L031"
+  ],
+  "missing_global": [],
+  "text": "Implement applicable security analyses through integrated analyzers and verifiable outputs:"
+ },
+ {
+  "atom_id": "A045.S4",
+  "section": "4",
+  "kind": "bullet",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.1053,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L028",
+   "L029"
+  ],
+  "missing_global": [],
+  "text": "Shell/command injection, unsafe execution, path traversal, symlink escape, secret exposure, configuration weaknesses, and relevant source-to-sink vulnerabilities."
+ },
+ {
+  "atom_id": "A046.S4",
+  "section": "4",
+  "kind": "bullet",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.0,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L028",
+   "L029"
+  ],
+  "missing_global": [],
+  "text": "Authentication, authorization, protected resources, ownership checks, and access-control enforcement."
+ },
+ {
+  "atom_id": "A047.S4",
+  "section": "4",
+  "kind": "bullet",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 0.9091,
+  "local_core": 0.9091,
+  "global_only": 0.0,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L028",
+   "L029"
+  ],
+  "missing_global": [],
+  "text": "Deep taint/dataflow analysis using appropriate language-aware engines."
+ },
+ {
+  "atom_id": "A048.S4",
+  "section": "4",
+  "kind": "bullet",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.2857,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L028",
+   "L029"
+  ],
+  "missing_global": [],
+  "text": "CodeQL integration and supported security-analysis tooling."
+ },
+ {
+  "atom_id": "A049.S4",
+  "section": "4",
+  "kind": "bullet",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.0714,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L028",
+   "L029"
+  ],
+  "missing_global": [],
+  "text": "SCA, dependency vulnerability detection, SBOM generation, dependency integrity, and supply-chain provenance/attestation verification."
+ },
+ {
+  "atom_id": "A050.S4",
+  "section": "4",
+  "kind": "bullet",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.2222,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L028",
+   "L029"
+  ],
+  "missing_global": [],
+  "text": "Security-relevant migration, database, integration, and deployment configuration checks."
+ },
+ {
+  "atom_id": "A051.S4",
+  "section": "4",
+  "kind": "directive",
+  "weight": 4,
+  "weight_label": "W4/PROHIBITION-OR-GATE",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.25,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L030",
+   "L032"
+  ],
+  "missing_global": [],
+  "text": "Do not invent vulnerability findings or label keyword matches as demonstrated exploits."
+ },
+ {
+  "atom_id": "A052.S4",
+  "section": "4",
+  "kind": "directive",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.2143,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L028",
+   "L030"
+  ],
+  "missing_global": [],
+  "text": "Treat every analyzer as an executable integration with explicit availability checks, supported languages, required inputs, limits, results, and evidence."
+ },
+ {
+  "atom_id": "A053.S4",
+  "section": "4",
+  "kind": "directive",
+  "weight": 4,
+  "weight_label": "W4/PROHIBITION-OR-GATE",
+  "coverage": 0.95,
+  "local_core": 0.95,
+  "global_only": 0.3,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L029",
+   "L031"
+  ],
+  "missing_global": [],
+  "text": "Where an analyzer requires external tooling or fixtures, install/configure it only within authorized execution boundaries; otherwise implement the compatible invocation and result contract and mark actual execution BLOCKED."
+ },
+ {
+  "atom_id": "A054.S4",
+  "section": "4",
+  "kind": "gate",
+  "weight": 4,
+  "weight_label": "W4/PROHIBITION-OR-GATE",
+  "coverage": 0.9333,
+  "local_core": 0.8667,
+  "global_only": 0.4,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L031",
+   "L033"
+  ],
+  "missing_global": [],
+  "text": "GATE: Each claimed security verification has executed analyzer evidence. Missing tools, unsupported languages, and unresolved dataflow remain visible."
+ },
+ {
+  "atom_id": "A055.S5",
+  "section": "5",
+  "kind": "section",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.4,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L034",
+   "L034"
+  ],
+  "missing_global": [],
+  "text": "5. RUNTIME, AUTHORIZATION & INTEGRATION VERIFICATION"
+ },
+ {
+  "atom_id": "A056.S5",
+  "section": "5",
+  "kind": "directive",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.1304,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L034",
+   "L035"
+  ],
+  "missing_global": [],
+  "text": "Preserve and improve application startup, process-owned port discovery, health/readiness checks, authentication probes, migrations, persistence/restart tests, worker verification, and deployment smoke tests."
+ },
+ {
+  "atom_id": "A057.S5",
+  "section": "5",
+  "kind": "directive",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.5,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L034",
+   "L036"
+  ],
+  "missing_global": [],
+  "text": "Add applicable:"
+ },
+ {
+  "atom_id": "A058.S5",
+  "section": "5",
+  "kind": "bullet",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.0714,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L034",
+   "L036"
+  ],
+  "missing_global": [],
+  "text": "Runtime IDOR and cross-tenant/cross-user authorization checks for read, list, create, update, and delete operations."
+ },
+ {
+  "atom_id": "A059.S5",
+  "section": "5",
+  "kind": "bullet",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.0667,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L034",
+   "L036"
+  ],
+  "missing_global": [],
+  "text": "Project-specific, authorized, non-destructive test actors, resource ownership rules, credentials, and disposable fixtures."
+ },
+ {
+  "atom_id": "A060.S5",
+  "section": "5",
+  "kind": "bullet",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.25,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L034",
+   "L036"
+  ],
+  "missing_global": [],
+  "text": "Cross-identity access-denial verification using actual application authorization contracts."
+ },
+ {
+  "atom_id": "A061.S5",
+  "section": "5",
+  "kind": "bullet",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.1,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L034",
+   "L036"
+  ],
+  "missing_global": [],
+  "text": "Workload concurrency, race-condition, restart, and state-consistency testing."
+ },
+ {
+  "atom_id": "A062.S5",
+  "section": "5",
+  "kind": "bullet",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.1,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L034",
+   "L036"
+  ],
+  "missing_global": [],
+  "text": "Database query-plan analysis and relevant performance/correctness checks."
+ },
+ {
+  "atom_id": "A063.S5",
+  "section": "5",
+  "kind": "bullet",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.0,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L034",
+   "L036"
+  ],
+  "missing_global": [],
+  "text": "Automated accessibility (a11y) analysis with appropriate rendered or interactive application fixtures."
+ },
+ {
+  "atom_id": "A064.S5",
+  "section": "5",
+  "kind": "bullet",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.0909,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L034",
+   "L036"
+  ],
+  "missing_global": [],
+  "text": "Application-specific persistence, worker, queue, and external-integration behavior checks."
+ },
+ {
+  "atom_id": "A065.S5",
+  "section": "5",
+  "kind": "directive",
+  "weight": 4,
+  "weight_label": "W4/PROHIBITION-OR-GATE",
+  "coverage": 1.0,
+  "local_core": 0.9091,
+  "global_only": 0.1818,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L036",
+   "L038"
+  ],
+  "missing_global": [],
+  "text": "Never invent users, tenants, endpoints, credentials, database semantics, or expected access rules."
+ },
+ {
+  "atom_id": "A066.S5",
+  "section": "5",
+  "kind": "directive",
+  "weight": 4,
+  "weight_label": "W4/PROHIBITION-OR-GATE",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.2,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L036",
+   "L038"
+  ],
+  "missing_global": [],
+  "text": "Do not classify a listening port or successful HTTP response as comprehensive application health."
+ },
+ {
+  "atom_id": "A067.S5",
+  "section": "5",
+  "kind": "directive",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.1,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L035",
+   "L037"
+  ],
+  "missing_global": [],
+  "text": "State-changing verification must use authorized, appropriately isolated, recoverable fixtures."
+ },
+ {
+  "atom_id": "A068.S5",
+  "section": "5",
+  "kind": "directive",
+  "weight": 4,
+  "weight_label": "W4/PROHIBITION-OR-GATE",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.2,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L036",
+   "L038"
+  ],
+  "missing_global": [],
+  "text": "Do not run destructive production tests by default."
+ },
+ {
+  "atom_id": "A069.S5",
+  "section": "5",
+  "kind": "gate",
+  "weight": 4,
+  "weight_label": "W4/PROHIBITION-OR-GATE",
+  "coverage": 0.9565,
+  "local_core": 0.913,
+  "global_only": 0.3913,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L037",
+   "L039"
+  ],
+  "missing_global": [],
+  "text": "GATE: Static indications, synthetic fixtures, runtime observations, and authentic integration results remain distinct. Unavailable project-specific prerequisites produce explicit BLOCKED findings\u2014not fabricated passes."
+ },
+ {
+  "atom_id": "A070.S6",
+  "section": "6",
+  "kind": "section",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.25,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L040",
+   "L040"
+  ],
+  "missing_global": [],
+  "text": "6. EXECUTION SAFETY & REPRODUCIBILITY"
+ },
+ {
+  "atom_id": "A071.S6",
+  "section": "6",
+  "kind": "directive",
+  "weight": 4,
+  "weight_label": "W4/PROHIBITION-OR-GATE",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.3,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L040",
+   "L041"
+  ],
+  "missing_global": [],
+  "text": "Eliminate ALL execution boundaries where untrusted repository data becomes executable shell source."
+ },
+ {
+  "atom_id": "A072.S6",
+  "section": "6",
+  "kind": "directive",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 0.0,
+  "global_only": 1.0,
+  "hoisted": true,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L040",
+   "L040"
+  ],
+  "missing_global": [],
+  "text": "Implement:"
+ },
+ {
+  "atom_id": "A073.S6",
+  "section": "6",
+  "kind": "bullet",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.1111,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L040",
+   "L042"
+  ],
+  "missing_global": [],
+  "text": "Safe executable/argument separation, argument arrays, and lossless filename processing."
+ },
+ {
+  "atom_id": "A074.S6",
+  "section": "6",
+  "kind": "bullet",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.0,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L040",
+   "L042"
+  ],
+  "missing_global": [],
+  "text": "NUL-delimited processing where required; robust handling of quotes, whitespace, metacharacters, and newlines."
+ },
+ {
+  "atom_id": "A075.S6",
+  "section": "6",
+  "kind": "bullet",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.1,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L040",
+   "L042"
+  ],
+  "missing_global": [],
+  "text": "Single-execution timeout behavior; no unintended command retries or alternate execution fallbacks."
+ },
+ {
+  "atom_id": "A076.S6",
+  "section": "6",
+  "kind": "bullet",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.0,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L040",
+   "L042"
+  ],
+  "missing_global": [],
+  "text": "Controlled environments, subprocess ownership, cancellation, cleanup, and safe working directories."
+ },
+ {
+  "atom_id": "A077.S6",
+  "section": "6",
+  "kind": "bullet",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.0,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L040",
+   "L042"
+  ],
+  "missing_global": [],
+  "text": "Collision-resistant, content-addressed log/artifact identifiers."
+ },
+ {
+  "atom_id": "A078.S6",
+  "section": "6",
+  "kind": "bullet",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.1111,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L040",
+   "L042"
+  ],
+  "missing_global": [],
+  "text": "Dependency-aware blocking and correct exit-code propagation."
+ },
+ {
+  "atom_id": "A079.S6",
+  "section": "6",
+  "kind": "bullet",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.0,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L040",
+   "L042"
+  ],
+  "missing_global": [],
+  "text": "Deterministic package-manager selection and reproducible installation where supported."
+ },
+ {
+  "atom_id": "A080.S6",
+  "section": "6",
+  "kind": "bullet",
+  "weight": 4,
+  "weight_label": "W4/PROHIBITION-OR-GATE",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.3,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L040",
+   "L042"
+  ],
+  "missing_global": [],
+  "text": "Appropriate separation between read-only static inspection and execution of untrusted application code."
+ },
+ {
+  "atom_id": "A081.S6",
+  "section": "6",
+  "kind": "bullet",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.0714,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L040",
+   "L042"
+  ],
+  "missing_global": [],
+  "text": "In-memory Python syntax compilation, AST inspection without imports, and optional isolated dependency/import compatibility checks."
+ },
+ {
+  "atom_id": "A082.S6",
+  "section": "6",
+  "kind": "bullet",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.1111,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L040",
+   "L042"
+  ],
+  "missing_global": [],
+  "text": "Secret-value protection in command output, reports, logs, and artifacts."
+ },
+ {
+  "atom_id": "A083.S6",
+  "section": "6",
+  "kind": "bullet",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.0769,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L040",
+   "L042"
+  ],
+  "missing_global": [],
+  "text": "Verified workflow-action references, least-privilege CI permissions, concurrency controls, and artifact integrity."
+ },
+ {
+  "atom_id": "A084.S6",
+  "section": "6",
+  "kind": "directive",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.3077,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L041",
+   "L043"
+  ],
+  "missing_global": [],
+  "text": "Preserve applicable language-specific linting, typechecking, tests, builds, configuration validation, and migration checks."
+ },
+ {
+  "atom_id": "A085.S6",
+  "section": "6",
+  "kind": "gate",
+  "weight": 4,
+  "weight_label": "W4/PROHIBITION-OR-GATE",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.3333,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L042",
+   "L044"
+  ],
+  "missing_global": [],
+  "text": "GATE: Malicious filenames cannot trigger unintended commands; failed commands execute once; missing prerequisites cannot produce successful downstream gates; auditing does not modify the target outside explicitly authorized operations."
+ },
+ {
+  "atom_id": "A086.S7",
+  "section": "7",
+  "kind": "section",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.1429,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L045",
+   "L045"
+  ],
+  "missing_global": [],
+  "text": "7. INPUT PROTECTION & AUDITOR SELF-ISOLATION"
+ },
+ {
+  "atom_id": "A087.S7",
+  "section": "7",
+  "kind": "directive",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.1429,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L045",
+   "L046"
+  ],
+  "missing_global": [],
+  "text": "Support direct files, repository directories, and ZIP archives."
+ },
+ {
+  "atom_id": "A088.S7",
+  "section": "7",
+  "kind": "directive",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.05,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L045",
+   "L047"
+  ],
+  "missing_global": [],
+  "text": "Enforce bounded processing and detect archive traversal, oversized members, decompression abuse, malformed content, unsupported entries, symlink escapes, resource exhaustion, and partial extraction."
+ },
+ {
+  "atom_id": "A089.S7",
+  "section": "7",
+  "kind": "directive",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.4,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L046",
+   "L048"
+  ],
+  "missing_global": [],
+  "text": "Preserve input provenance and original hashes."
+ },
+ {
+  "atom_id": "A090.S7",
+  "section": "7",
+  "kind": "directive",
+  "weight": 4,
+  "weight_label": "W4/PROHIBITION-OR-GATE",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.1579,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L047",
+   "L049"
+  ],
+  "missing_global": [],
+  "text": "Exclude generated reports, tool internals, temporary directories, caches, test harnesses, and execution byproducts from application-level findings unless explicitly designated as the target."
+ },
+ {
+  "atom_id": "A091.S7",
+  "section": "7",
+  "kind": "directive",
+  "weight": 4,
+  "weight_label": "W4/PROHIBITION-OR-GATE",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.1818,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L048",
+   "L050"
+  ],
+  "missing_global": [],
+  "text": "Ensure source scans, diff analysis, security classification, and relationship detection cannot contaminate themselves."
+ },
+ {
+  "atom_id": "A092.S7",
+  "section": "7",
+  "kind": "gate",
+  "weight": 4,
+  "weight_label": "W4/PROHIBITION-OR-GATE",
+  "coverage": 1.0,
+  "local_core": 0.9375,
+  "global_only": 0.25,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L049",
+   "L051"
+  ],
+  "missing_global": [],
+  "text": "GATE: Every omitted, rejected, truncated, or unreadable input appears in coverage accounting. Tool-generated files cannot fabricate application findings."
+ },
+ {
+  "atom_id": "A093.S8",
+  "section": "8",
+  "kind": "section",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.6,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L052",
+   "L052"
+  ],
+  "missing_global": [],
+  "text": "8. AUTHORITATIVE VERIFICATION & FORENSIC EVIDENCE"
+ },
+ {
+  "atom_id": "A094.S8",
+  "section": "8",
+  "kind": "directive",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.75,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L052",
+   "L053"
+  ],
+  "missing_global": [],
+  "text": "Preserve PASS, FAIL, BLOCKED, and SKIP; additionally represent incomplete inspection and unresolved verification explicitly."
+ },
+ {
+  "atom_id": "A095.S8",
+  "section": "8",
+  "kind": "directive",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.5,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L052",
+   "L054"
+  ],
+  "missing_global": [],
+  "text": "For every gate record:"
+ },
+ {
+  "atom_id": "A096.S8",
+  "section": "8",
+  "kind": "directive",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.2353,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L052",
+   "L054"
+  ],
+  "missing_global": [],
+  "text": "ID | applicability | prerequisites | source evidence | executed procedure | environment | outcome | exit status | coverage | failure cause | unresolved dependencies | evidence references."
+ },
+ {
+  "atom_id": "A097.S8",
+  "section": "8",
+  "kind": "directive",
+  "weight": 1,
+  "weight_label": "W1/ENUMERATED-DETAIL",
+  "coverage": 0.0,
+  "local_core": 0.0,
+  "global_only": 0.0,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [],
+  "missing_global": [],
+  "text": "Definitions:"
+ },
+ {
+  "atom_id": "A098.S8",
+  "section": "8",
+  "kind": "bullet",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.5,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L053",
+   "L055"
+  ],
+  "missing_global": [],
+  "text": "PASS: Applicable verification executed and satisfied its stated acceptance conditions."
+ },
+ {
+  "atom_id": "A099.S8",
+  "section": "8",
+  "kind": "bullet",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.6,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L053",
+   "L055"
+  ],
+  "missing_global": [],
+  "text": "FAIL: Executed verification demonstrated a failed condition."
+ },
+ {
+  "atom_id": "A100.S8",
+  "section": "8",
+  "kind": "bullet",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.7778,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L053",
+   "L055"
+  ],
+  "missing_global": [],
+  "text": "BLOCKED: Applicable verification could not be completed because an identified prerequisite was unavailable or failed."
+ },
+ {
+  "atom_id": "A101.S8",
+  "section": "8",
+  "kind": "bullet",
+  "weight": 2,
+  "weight_label": "W2/CONDITIONAL-APPLICABLE",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 1.0,
+  "hoisted": true,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L053",
+   "L055"
+  ],
+  "missing_global": [],
+  "text": "SKIP: Verified inapplicable."
+ },
+ {
+  "atom_id": "A102.S8",
+  "section": "8",
+  "kind": "bullet",
+  "weight": 1,
+  "weight_label": "W1/ENUMERATED-DETAIL",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.5556,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L053",
+   "L055"
+  ],
+  "missing_global": [],
+  "text": "INCOMPLETE: Required evidence, inspection, execution accounting, or verification coverage is insufficient."
+ },
+ {
+  "atom_id": "A103.S8",
+  "section": "8",
+  "kind": "directive",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.3077,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L054",
+   "L056"
+  ],
+  "missing_global": [],
+  "text": "Maintain separate completeness accounting for source, static, security, runtime, deployment, and production-integration verification."
+ },
+ {
+  "atom_id": "A104.S8",
+  "section": "8",
+  "kind": "directive",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.2143,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L055",
+   "L057"
+  ],
+  "missing_global": [],
+  "text": "Generate consistent JSON, Markdown, SARIF, source manifests, evidence relationships, coverage records, and prioritized actionable findings."
+ },
+ {
+  "atom_id": "A105.S8",
+  "section": "8",
+  "kind": "directive",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.3158,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L056",
+   "L058"
+  ],
+  "missing_global": [],
+  "text": "Preserve source-line anchoring, actual execution receipts, independent evidence, finding provenance, causal relationships, and distinctions between root causes and repeated symptoms."
+ },
+ {
+  "atom_id": "A106.S8",
+  "section": "8",
+  "kind": "directive",
+  "weight": 4,
+  "weight_label": "W4/PROHIBITION-OR-GATE",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.0769,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L057",
+   "L059"
+  ],
+  "missing_global": [],
+  "text": "Prevent report injection, forged results, leaked secrets, overwritten evidence, and false-success disposition."
+ },
+ {
+  "atom_id": "A107.S8",
+  "section": "8",
+  "kind": "directive",
+  "weight": 4,
+  "weight_label": "W4/PROHIBITION-OR-GATE",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.2308,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L058",
+   "L060"
+  ],
+  "missing_global": [],
+  "text": "Make report generation failure-safe and ensure interrupted analysis cannot produce an apparently complete pass."
+ },
+ {
+  "atom_id": "A108.S8",
+  "section": "8",
+  "kind": "gate",
+  "weight": 4,
+  "weight_label": "W4/PROHIBITION-OR-GATE",
+  "coverage": 0.9333,
+  "local_core": 0.8667,
+  "global_only": 0.5333,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L059",
+   "L061"
+  ],
+  "missing_global": [],
+  "text": "GATE: Every claim traces to executable evidence; every unperformed applicable verification remains unresolved; final status is mechanically reconcilable with the evidence ledger."
+ },
+ {
+  "atom_id": "A109.S9",
+  "section": "9",
+  "kind": "section",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.125,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L062",
+   "L062"
+  ],
+  "missing_global": [],
+  "text": "9. GITHUB CI \u2194 CHATGPT/PYTHON FUNCTIONAL INTEGRATION"
+ },
+ {
+  "atom_id": "A110.S9",
+  "section": "9",
+  "kind": "directive",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.1667,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L062",
+   "L063"
+  ],
+  "missing_global": [],
+  "text": "Maintain GitHub Actions as the canonical CI orchestrator."
+ },
+ {
+  "atom_id": "A111.S9",
+  "section": "9",
+  "kind": "directive",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.2857,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L062",
+   "L064"
+  ],
+  "missing_global": [],
+  "text": "Provide a fully executable ChatGPT Code Interpreter/Python entrypoint for uploaded repositories, archives, and individual files."
+ },
+ {
+  "atom_id": "A112.S9",
+  "section": "9",
+  "kind": "directive",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.3333,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L063",
+   "L065"
+  ],
+  "missing_global": [],
+  "text": "Both environments must share compatible:"
+ },
+ {
+  "atom_id": "A113.S9",
+  "section": "9",
+  "kind": "bullet",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.3333,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L063",
+   "L065"
+  ],
+  "missing_global": [],
+  "text": "Source normalization and fingerprinting."
+ },
+ {
+  "atom_id": "A114.S9",
+  "section": "9",
+  "kind": "bullet",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.5,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L063",
+   "L065"
+  ],
+  "missing_global": [],
+  "text": "Static scanning and function comparison."
+ },
+ {
+  "atom_id": "A115.S9",
+  "section": "9",
+  "kind": "bullet",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.25,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L063",
+   "L065"
+  ],
+  "missing_global": [],
+  "text": "API-contract analysis."
+ },
+ {
+  "atom_id": "A116.S9",
+  "section": "9",
+  "kind": "bullet",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.3333,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L063",
+   "L065"
+  ],
+  "missing_global": [],
+  "text": "Security rule semantics."
+ },
+ {
+  "atom_id": "A117.S9",
+  "section": "9",
+  "kind": "bullet",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.5,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L063",
+   "L065"
+  ],
+  "missing_global": [],
+  "text": "Evidence/finding identifiers."
+ },
+ {
+  "atom_id": "A118.S9",
+  "section": "9",
+  "kind": "bullet",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.0,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L063",
+   "L065"
+  ],
+  "missing_global": [],
+  "text": "Coverage definitions."
+ },
+ {
+  "atom_id": "A119.S9",
+  "section": "9",
+  "kind": "bullet",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.5,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L063",
+   "L065"
+  ],
+  "missing_global": [],
+  "text": "Gate reconciliation and report schemas."
+ },
+ {
+  "atom_id": "A120.S9",
+  "section": "9",
+  "kind": "bullet",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.25,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L063",
+   "L065"
+  ],
+  "missing_global": [],
+  "text": "Forensic exports and actionable results."
+ },
+ {
+  "atom_id": "A121.S9",
+  "section": "9",
+  "kind": "directive",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.2,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L064",
+   "L066"
+  ],
+  "missing_global": [],
+  "text": "Execute every capability supported by the current environment."
+ },
+ {
+  "atom_id": "A122.S9",
+  "section": "9",
+  "kind": "directive",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.3,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L064",
+   "L066"
+  ],
+  "missing_global": [],
+  "text": "Distinguish environment limitations without dropping required functionality or claiming parity where execution is impossible."
+ },
+ {
+  "atom_id": "A123.S9",
+  "section": "9",
+  "kind": "directive",
+  "weight": 4,
+  "weight_label": "W4/PROHIBITION-OR-GATE",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.2308,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L065",
+   "L067"
+  ],
+  "missing_global": [],
+  "text": "No browser-key storage, unnecessary external services, duplicate execution engines, or separate audit framework."
+ },
+ {
+  "atom_id": "A124.S9",
+  "section": "9",
+  "kind": "gate",
+  "weight": 4,
+  "weight_label": "W4/PROHIBITION-OR-GATE",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.2857,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L066",
+   "L068"
+  ],
+  "missing_global": [],
+  "text": "GATE: Common fixtures produce equivalent findings and evidence across both environments; environment-specific gates retain truthful independent results."
+ },
+ {
+  "atom_id": "A125.S10",
+  "section": "10",
+  "kind": "section",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.5,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L069",
+   "L069"
+  ],
+  "missing_global": [],
+  "text": "10. ADVANCED ENGINEERING DISCOVERY"
+ },
+ {
+  "atom_id": "A126.S10",
+  "section": "10",
+  "kind": "directive",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.4286,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L069",
+   "L070"
+  ],
+  "missing_global": [],
+  "text": "Research and test additional mechanisms capable of materially improving:"
+ },
+ {
+  "atom_id": "A127.S10",
+  "section": "10",
+  "kind": "pipeline",
+  "weight": 1,
+  "weight_label": "W1/ENUMERATED-DETAIL",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.25,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L069",
+   "L070"
+  ],
+  "missing_global": [],
+  "text": "Coverage \u2192 correctness \u2192 precision \u2192 security \u2192 resource efficiency \u2192 integration depth \u2192 reproducibility \u2192 evidence integrity \u2192 usability."
+ },
+ {
+  "atom_id": "A128.S10",
+  "section": "10",
+  "kind": "directive",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.1935,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L069",
+   "L071"
+  ],
+  "missing_global": [],
+  "text": "Investigate applicable parser/AST/IR reuse, source-to-sink graph analysis, dependency-aware incremental analysis, differential testing, adversarial fixtures, shared analyzer adapters, content-addressed result caching, and other technically justified methods."
+ },
+ {
+  "atom_id": "A129.S10",
+  "section": "10",
+  "kind": "directive",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.125,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L070",
+   "L072"
+  ],
+  "missing_global": [],
+  "text": "Evaluate each candidate against the actual architecture, input trust model, analyzer support, complexity cost, measurable benefit, and regression impact."
+ },
+ {
+  "atom_id": "A130.S10",
+  "section": "10",
+  "kind": "directive",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.6667,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L071",
+   "L073"
+  ],
+  "missing_global": [],
+  "text": "Implement demonstrated improvements directly into the canonical system."
+ },
+ {
+  "atom_id": "A131.S10",
+  "section": "10",
+  "kind": "directive",
+  "weight": 4,
+  "weight_label": "W4/PROHIBITION-OR-GATE",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.0,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L071",
+   "L073"
+  ],
+  "missing_global": [],
+  "text": "Reject unsupported or redundant complexity."
+ },
+ {
+  "atom_id": "A132.S10",
+  "section": "10",
+  "kind": "directive",
+  "weight": 4,
+  "weight_label": "W4/PROHIBITION-OR-GATE",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.4286,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L072",
+   "L074"
+  ],
+  "missing_global": [],
+  "text": "Do not substitute speculative feature lists for integrated executable capabilities."
+ },
+ {
+  "atom_id": "A133.S10",
+  "section": "10",
+  "kind": "gate",
+  "weight": 4,
+  "weight_label": "W4/PROHIBITION-OR-GATE",
+  "coverage": 1.0,
+  "local_core": 0.9,
+  "global_only": 0.4,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L073",
+   "L075"
+  ],
+  "missing_global": [],
+  "text": "GATE: Accepted enhancements are implemented, tested, and traceable to a demonstrated need or measurable improvement."
+ },
+ {
+  "atom_id": "A134.S11",
+  "section": "11",
+  "kind": "section",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.3333,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L076",
+   "L076"
+  ],
+  "missing_global": [],
+  "text": "11. ADVERSARIAL & END-TO-END ACCEPTANCE TESTING"
+ },
+ {
+  "atom_id": "A135.S11",
+  "section": "11",
+  "kind": "directive",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.4545,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L076",
+   "L077"
+  ],
+  "missing_global": [],
+  "text": "Execute unit, integration, adversarial, differential, and end-to-end tests on changed and inherited functionality."
+ },
+ {
+  "atom_id": "A136.S11",
+  "section": "11",
+  "kind": "directive",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.0,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L076",
+   "L078"
+  ],
+  "missing_global": [],
+  "text": "Mandatory cases include:"
+ },
+ {
+  "atom_id": "A137.S11",
+  "section": "11",
+  "kind": "bullet",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.1429,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L076",
+   "L078"
+  ],
+  "missing_global": [],
+  "text": "Original command-injection reproduction and corrected behavior."
+ },
+ {
+  "atom_id": "A138.S11",
+  "section": "11",
+  "kind": "bullet",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.0,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L076",
+   "L078"
+  ],
+  "missing_global": [],
+  "text": "Shell metacharacters, quotes, whitespace, newlines, and malicious filenames."
+ },
+ {
+  "atom_id": "A139.S11",
+  "section": "11",
+  "kind": "bullet",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.1667,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L076",
+   "L078"
+  ],
+  "missing_global": [],
+  "text": "Double-execution, timeout, and retry failures."
+ },
+ {
+  "atom_id": "A140.S11",
+  "section": "11",
+  "kind": "bullet",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.0,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L076",
+   "L078"
+  ],
+  "missing_global": [],
+  "text": "Dependency and lockfile failures."
+ },
+ {
+  "atom_id": "A141.S11",
+  "section": "11",
+  "kind": "bullet",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.0,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L076",
+   "L078"
+  ],
+  "missing_global": [],
+  "text": "Invalid Python syntax without filesystem side effects."
+ },
+ {
+  "atom_id": "A142.S11",
+  "section": "11",
+  "kind": "bullet",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.0,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L076",
+   "L078"
+  ],
+  "missing_global": [],
+  "text": "HTTP-method mismatches, nested/prefixed/parameterized routes, and unresolved dynamic calls."
+ },
+ {
+  "atom_id": "A143.S11",
+  "section": "11",
+  "kind": "bullet",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.375,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L076",
+   "L078"
+  ],
+  "missing_global": [],
+  "text": "Function comparison, duplicate sources, hash integrity, and identifier collisions."
+ },
+ {
+  "atom_id": "A144.S11",
+  "section": "11",
+  "kind": "bullet",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.0,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L076",
+   "L078"
+  ],
+  "missing_global": [],
+  "text": "Malformed ZIP archives, symlink escape, and bounded-resource enforcement."
+ },
+ {
+  "atom_id": "A145.S11",
+  "section": "11",
+  "kind": "bullet",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.1667,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L076",
+   "L078"
+  ],
+  "missing_global": [],
+  "text": "Secret leakage, report injection, and forged evidence."
+ },
+ {
+  "atom_id": "A146.S11",
+  "section": "11",
+  "kind": "bullet",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.25,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L076",
+   "L078"
+  ],
+  "missing_global": [],
+  "text": "Auditor self-contamination."
+ },
+ {
+  "atom_id": "A147.S11",
+  "section": "11",
+  "kind": "bullet",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.3333,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L076",
+   "L078"
+  ],
+  "missing_global": [],
+  "text": "Interrupted processing, inconsistent gate ledgers, missing tools, and incomplete coverage."
+ },
+ {
+  "atom_id": "A148.S11",
+  "section": "11",
+  "kind": "bullet",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.0,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L076",
+   "L078"
+  ],
+  "missing_global": [],
+  "text": "Appropriate CodeQL, SCA/SBOM, provenance, taint/dataflow, IDOR, concurrency, a11y, and database-query fixtures."
+ },
+ {
+  "atom_id": "A149.S11",
+  "section": "11",
+  "kind": "bullet",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.5,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L076",
+   "L078"
+  ],
+  "missing_global": [],
+  "text": "Regression of original build, test, runtime, reporting, and deployment gates."
+ },
+ {
+  "atom_id": "A150.S11",
+  "section": "11",
+  "kind": "directive",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.2222,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L077",
+   "L079"
+  ],
+  "missing_global": [],
+  "text": "Execute original-versus-upgraded fixtures wherever necessary to prove a correction."
+ },
+ {
+  "atom_id": "A151.S11",
+  "section": "11",
+  "kind": "directive",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.375,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L078",
+   "L080"
+  ],
+  "missing_global": [],
+  "text": "Measure coverage of requirements and functions, not merely numbers of passing tests."
+ },
+ {
+  "atom_id": "A152.S11",
+  "section": "11",
+  "kind": "pipeline",
+  "weight": 1,
+  "weight_label": "W1/ENUMERATED-DETAIL",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.3571,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L079",
+   "L081"
+  ],
+  "missing_global": [],
+  "text": "On failure: diagnose \u2192 repair \u2192 rerun affected tests \u2192 run integration/regression checks \u2192 record actual evidence."
+ },
+ {
+  "atom_id": "A153.S11",
+  "section": "11",
+  "kind": "directive",
+  "weight": 4,
+  "weight_label": "W4/PROHIBITION-OR-GATE",
+  "coverage": 1.0,
+  "local_core": 0.9286,
+  "global_only": 0.4286,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L080",
+   "L082"
+  ],
+  "missing_global": [],
+  "text": "Never accept a passing test suite while an applicable required behavior remains untested, silently skipped, or contradicted by other evidence."
+ },
+ {
+  "atom_id": "A154.S11",
+  "section": "11",
+  "kind": "gate",
+  "weight": 4,
+  "weight_label": "W4/PROHIBITION-OR-GATE",
+  "coverage": 1.0,
+  "local_core": 0.9286,
+  "global_only": 0.5,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L081",
+   "L083"
+  ],
+  "missing_global": [],
+  "text": "GATE: Every claimed fix has direct positive and negative verification evidence; no inherited capability is assumed preserved without an applicable check."
+ },
+ {
+  "atom_id": "A155.S12",
+  "section": "12",
+  "kind": "section",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.0,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L084",
+   "L084"
+  ],
+  "missing_global": [],
+  "text": "12. REAL-ENVIRONMENT ACCEPTANCE"
+ },
+ {
+  "atom_id": "A156.S12",
+  "section": "12",
+  "kind": "directive",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.0,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L084",
+   "L084"
+  ],
+  "missing_global": [],
+  "text": "Keep these THREE obligations independent:"
+ },
+ {
+  "atom_id": "A157.S12",
+  "section": "12",
+  "kind": "directive",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.2353,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L084",
+   "L085"
+  ],
+  "missing_global": [],
+  "text": "GitHub-hosted CI: Execute the actual workflow on an authorized hosted runner; verify permissions, actions, gates, outputs, failures, and published artifacts."
+ },
+ {
+  "atom_id": "A158.S12",
+  "section": "12",
+  "kind": "directive",
+  "weight": 2,
+  "weight_label": "W2/CONDITIONAL-APPLICABLE",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.2308,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L084",
+   "L086"
+  ],
+  "missing_global": [],
+  "text": "External deployment: Verify actual authorized deployment configurations, startup, accessibility, integrations, and application behavior in applicable external environments."
+ },
+ {
+  "atom_id": "A159.S12",
+  "section": "12",
+  "kind": "directive",
+  "weight": 2,
+  "weight_label": "W2/CONDITIONAL-APPLICABLE",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.15,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L085",
+   "L087"
+  ],
+  "missing_global": [],
+  "text": "Authentic application integration: Test genuine application contracts, authorization, persistence, workers, dependencies, and relevant real-world operations with authorized non-destructive fixtures."
+ },
+ {
+  "atom_id": "A160.S12",
+  "section": "12",
+  "kind": "directive",
+  "weight": 5,
+  "weight_label": "W5/LAW-ABSOLUTE",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.0,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L087",
+   "L089"
+  ],
+  "missing_global": [],
+  "text": "Local simulations cannot satisfy A, B, or C."
+ },
+ {
+  "atom_id": "A161.S12",
+  "section": "12",
+  "kind": "directive",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.4,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L086",
+   "L088"
+  ],
+  "missing_global": [],
+  "text": "If access, configuration, test identities, services, or authorization are unavailable, establish the exact blocker, preserve the executable implementation and test contract, and classify the environment-specific obligation as BLOCKED."
+ },
+ {
+  "atom_id": "A162.S12",
+  "section": "12",
+  "kind": "directive",
+  "weight": 5,
+  "weight_label": "W5/LAW-ABSOLUTE",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.2222,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L087",
+   "L089"
+  ],
+  "missing_global": [],
+  "text": "Do not fabricate hosted runs, deployment results, accounts, fixtures, or production evidence."
+ },
+ {
+  "atom_id": "A163.S13",
+  "section": "13",
+  "kind": "section",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.3333,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L090",
+   "L090"
+  ],
+  "missing_global": [],
+  "text": "13. DELIVERABLE CONTRACT"
+ },
+ {
+  "atom_id": "A164.S13",
+  "section": "13",
+  "kind": "directive",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 0.8,
+  "local_core": 0.8,
+  "global_only": 0.6,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L090",
+   "L090"
+  ],
+  "missing_global": [],
+  "text": "Produce ONE complete integrated release containing:"
+ },
+ {
+  "atom_id": "A165.S13",
+  "section": "13",
+  "kind": "numitem",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.2,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L090",
+   "L091"
+  ],
+  "missing_global": [],
+  "text": "Canonical upgraded GitHub Actions workflow."
+ },
+ {
+  "atom_id": "A166.S13",
+  "section": "13",
+  "kind": "numitem",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.2,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L090",
+   "L091"
+  ],
+  "missing_global": [],
+  "text": "Every required executable helper and shared module."
+ },
+ {
+  "atom_id": "A167.S13",
+  "section": "13",
+  "kind": "numitem",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.1429,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L090",
+   "L091"
+  ],
+  "missing_global": [],
+  "text": "Working ChatGPT Code Interpreter/Python entrypoint."
+ },
+ {
+  "atom_id": "A168.S13",
+  "section": "13",
+  "kind": "numitem",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 1.0,
+  "hoisted": true,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L090",
+   "L091"
+  ],
+  "missing_global": [],
+  "text": "All seven preserved original sources."
+ },
+ {
+  "atom_id": "A169.S13",
+  "section": "13",
+  "kind": "numitem",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 1.0,
+  "hoisted": true,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L090",
+   "L091"
+  ],
+  "missing_global": [],
+  "text": "Forensic bundle and complete 28-finding integration ledger."
+ },
+ {
+  "atom_id": "A170.S13",
+  "section": "13",
+  "kind": "numitem",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.4,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L090",
+   "L091"
+  ],
+  "missing_global": [],
+  "text": "Source/function integration map and original-to-upgrade unified diffs."
+ },
+ {
+  "atom_id": "A171.S13",
+  "section": "13",
+  "kind": "numitem",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.4286,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L090",
+   "L091"
+  ],
+  "missing_global": [],
+  "text": "Regression tests, adversarial fixtures, and executable validation harnesses."
+ },
+ {
+  "atom_id": "A172.S13",
+  "section": "13",
+  "kind": "numitem",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.4,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L090",
+   "L091"
+  ],
+  "missing_global": [],
+  "text": "Actual test outputs and independent real-environment execution receipts where available."
+ },
+ {
+  "atom_id": "A173.S13",
+  "section": "13",
+  "kind": "numitem",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.1,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L090",
+   "L091"
+  ],
+  "missing_global": [],
+  "text": "Source/artifact SHA-256 manifests and validated package integrity."
+ },
+ {
+  "atom_id": "A174.S13",
+  "section": "13",
+  "kind": "numitem",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.0,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L090",
+   "L091"
+  ],
+  "missing_global": [],
+  "text": "10."
+ },
+ {
+  "atom_id": "A175.S13",
+  "section": "13",
+  "kind": "numitem",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.2222,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L090",
+   "L091"
+  ],
+  "missing_global": [],
+  "text": "Machine-readable findings, coverage, evidence relationships, and unresolved obligations."
+ },
+ {
+  "atom_id": "A176.S13",
+  "section": "13",
+  "kind": "numitem",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.0,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L090",
+   "L091"
+  ],
+  "missing_global": [],
+  "text": "11."
+ },
+ {
+  "atom_id": "A177.S13",
+  "section": "13",
+  "kind": "numitem",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.0,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L090",
+   "L091"
+  ],
+  "missing_global": [],
+  "text": "Minimal accurate operating instructions."
+ },
+ {
+  "atom_id": "A178.S13",
+  "section": "13",
+  "kind": "numitem",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.0,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L090",
+   "L091"
+  ],
+  "missing_global": [],
+  "text": "12."
+ },
+ {
+  "atom_id": "A179.S13",
+  "section": "13",
+  "kind": "numitem",
+  "weight": 4,
+  "weight_label": "W4/PROHIBITION-OR-GATE",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.4,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L090",
+   "L091"
+  ],
+  "missing_global": [],
+  "text": "Worklog recording only actions actually executed."
+ },
+ {
+  "atom_id": "A180.S13",
+  "section": "13",
+  "kind": "directive",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.25,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L090",
+   "L092"
+  ],
+  "missing_global": [],
+  "text": "Required classification for every capability and finding:"
+ },
+ {
+  "atom_id": "A181.S13",
+  "section": "13",
+  "kind": "directive",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.5556,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L090",
+   "L092"
+  ],
+  "missing_global": [],
+  "text": "IMPLEMENTED+VERIFIED | IMPLEMENTED+PARTIALLY_VERIFIED | BLOCKED | NOT_IMPLEMENTED | NOT_APPLICABLE."
+ },
+ {
+  "atom_id": "A182.S13",
+  "section": "13",
+  "kind": "directive",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.375,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L091",
+   "L093"
+  ],
+  "missing_global": [],
+  "text": "Include exact prerequisites and unexecuted acceptance tests for all incomplete items."
+ },
+ {
+  "atom_id": "A183.S13",
+  "section": "13",
+  "kind": "directive",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.0769,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L092",
+   "L094"
+  ],
+  "missing_global": [],
+  "text": "Validate ZIP integrity, all internal references, executable entrypoints, dependency availability, report structure, and artifact hashes."
+ },
+ {
+  "atom_id": "A184.S14",
+  "section": "14",
+  "kind": "section",
+  "weight": 3,
+  "weight_label": "W3/MANDATORY-BUILD",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.1667,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L095",
+   "L095"
+  ],
+  "missing_global": [],
+  "text": "14. FINAL ACCEPTANCE \u2014 HARD STOP CONDITIONS"
+ },
+ {
+  "atom_id": "A185.S14",
+  "section": "14",
+  "kind": "directive",
+  "weight": 5,
+  "weight_label": "W5/LAW-ABSOLUTE",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.25,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L095",
+   "L096"
+  ],
+  "missing_global": [],
+  "text": "Do NOT declare the complete scope satisfied unless:"
+ },
+ {
+  "atom_id": "A186.S14",
+  "section": "14",
+  "kind": "bullet",
+  "weight": 5,
+  "weight_label": "W5/LAW-ABSOLUTE",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.6667,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L095",
+   "L096"
+  ],
+  "missing_global": [],
+  "text": "All seven originals and forensic bundle requirements are reconciled."
+ },
+ {
+  "atom_id": "A187.S14",
+  "section": "14",
+  "kind": "bullet",
+  "weight": 5,
+  "weight_label": "W5/LAW-ABSOLUTE",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.8333,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L095",
+   "L096"
+  ],
+  "missing_global": [],
+  "text": "One canonical architecture retains all verified existing functionality."
+ },
+ {
+  "atom_id": "A188.S14",
+  "section": "14",
+  "kind": "bullet",
+  "weight": 5,
+  "weight_label": "W5/LAW-ABSOLUTE",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.8333,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L095",
+   "L096"
+  ],
+  "missing_global": [],
+  "text": "Every accepted compatible improvement is integrated into executable code."
+ },
+ {
+  "atom_id": "A189.S14",
+  "section": "14",
+  "kind": "bullet",
+  "weight": 5,
+  "weight_label": "W5/LAW-ABSOLUTE",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.2105,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L095",
+   "L096"
+  ],
+  "missing_global": [],
+  "text": "Static, API, security, supply-chain, language, runtime, authorization, concurrency, accessibility, database, and deployment capabilities are addressed at their actual applicable execution depth."
+ },
+ {
+  "atom_id": "A190.S14",
+  "section": "14",
+  "kind": "bullet",
+  "weight": 5,
+  "weight_label": "W5/LAW-ABSOLUTE",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.4167,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L095",
+   "L096"
+  ],
+  "missing_global": [],
+  "text": "Command execution, source intake, evidence handling, and report generation satisfy adversarial safety tests."
+ },
+ {
+  "atom_id": "A191.S14",
+  "section": "14",
+  "kind": "bullet",
+  "weight": 5,
+  "weight_label": "W5/LAW-ABSOLUTE",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.25,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L095",
+   "L096"
+  ],
+  "missing_global": [],
+  "text": "CI and ChatGPT/Python implementations are consistent for shared functionality."
+ },
+ {
+  "atom_id": "A192.S14",
+  "section": "14",
+  "kind": "bullet",
+  "weight": 5,
+  "weight_label": "W5/LAW-ABSOLUTE",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.6,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L095",
+   "L096"
+  ],
+  "missing_global": [],
+  "text": "All applicable verification gates have trustworthy dispositions."
+ },
+ {
+  "atom_id": "A193.S14",
+  "section": "14",
+  "kind": "bullet",
+  "weight": 5,
+  "weight_label": "W5/LAW-ABSOLUTE",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.125,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L095",
+   "L096"
+  ],
+  "missing_global": [],
+  "text": "Original-versus-upgraded behavior and regression preservation are demonstrated."
+ },
+ {
+  "atom_id": "A194.S14",
+  "section": "14",
+  "kind": "bullet",
+  "weight": 5,
+  "weight_label": "W5/LAW-ABSOLUTE",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.2308,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L095",
+   "L096"
+  ],
+  "missing_global": [],
+  "text": "GitHub-hosted, external-deployment, and authentic application verifications are individually evidenced or explicitly BLOCKED."
+ },
+ {
+  "atom_id": "A195.S14",
+  "section": "14",
+  "kind": "bullet",
+  "weight": 5,
+  "weight_label": "W5/LAW-ABSOLUTE",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.2,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L095",
+   "L096"
+  ],
+  "missing_global": [],
+  "text": "The delivered package is independently inspectable, executable, internally consistent, and integrity-verified."
+ },
+ {
+  "atom_id": "A196.S14",
+  "section": "14",
+  "kind": "bullet",
+  "weight": 5,
+  "weight_label": "W5/LAW-ABSOLUTE",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.5,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L095",
+   "L096"
+  ],
+  "missing_global": [],
+  "text": "No applicable implementable requirement remains satisfied only by an explanation, recommendation, implementation plan, placeholder, or unexecuted test."
+ },
+ {
+  "atom_id": "A197.S14",
+  "section": "14",
+  "kind": "label",
+  "weight": 5,
+  "weight_label": "W5/LAW-ABSOLUTE",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.6129,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L095",
+   "L097"
+  ],
+  "missing_global": [],
+  "text": "EXECUTION LAW: Investigate before concluding. Preserve before modifying. Integrate before expanding. Execute before claiming. Test before accepting. Repair demonstrated failures. Never silently omit, invent evidence, substitute narrative for code, create a competing system, or declare completion beyond verified reality."
+ },
+ {
+  "atom_id": "A198.S14",
+  "section": "14",
+  "kind": "label",
+  "weight": 5,
+  "weight_label": "W5/LAW-ABSOLUTE",
+  "coverage": 1.0,
+  "local_core": 1.0,
+  "global_only": 0.4138,
+  "hoisted": false,
+  "doc_coverage": 1.0,
+  "anchors": [
+   "L096",
+   "L098"
+  ],
+  "missing_global": [],
+  "text": "RESPONSE LAW: Perform the engineering work. Return the executable integrated deliverable, verification evidence, precise remaining blockers, and nothing conversational. Do not narrate intentions, repeat instructions, request reconfirmation of established requirements, or replace execution with a description of what should be done."
+ }
+]

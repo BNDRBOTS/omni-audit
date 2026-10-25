@@ -1,0 +1,3 @@
+{
+  "_doc": ["Explicit equivalence discharges. Key = token literally present in the COMPRESSED text; value = source stems it legitimately represents. Every non-literal coverage claim must appear here and is auditable."]
+}

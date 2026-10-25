@@ -1,0 +1,76 @@
+{
+ "V1_stem_coverage": {
+  "source_stems": 789,
+  "literal": 786,
+  "lexicon": 0,
+  "coverage": 0.996198,
+  "uncovered_count": 3,
+  "uncovered": [
+   "ensure",
+   "rather",
+   "siz"
+  ],
+  "status": "FAIL"
+ },
+ "V2_atom_coverage": {
+  "atoms": 191,
+  "mean": 0.9866,
+  "min": 0.6667,
+  "weak_count": 5,
+  "status": "FAIL"
+ },
+ "V3_weight_mass": {
+  "fully_covered_by_tier": {
+   "W1/ENUMERATED-DETAIL": 1.0,
+   "W2/CONDITIONAL-APPLICABLE": 1.0,
+   "W3/MANDATORY-BUILD": 0.9773,
+   "W4/PROHIBITION-OR-GATE": 0.9394,
+   "W5/LAW-ABSOLUTE": 1.0
+  },
+  "status": "FAIL"
+ },
+ "V4_literals": {
+  "missing": [],
+  "broken_pipelines": [],
+  "status": "PASS"
+ },
+ "V5_structure": {
+  "missing_sections": [],
+  "gates_source": 11,
+  "gates_compressed": 11,
+  "status": "PASS"
+ },
+ "V6_metrics": {
+  "chars": {
+   "source": 20140,
+   "compressed": 19459,
+   "retained_pct": 96.62,
+   "reduction_pct": 3.38
+  },
+  "words": {
+   "source": 2320,
+   "compressed": 2243,
+   "retained_pct": 96.68,
+   "reduction_pct": 3.32
+  },
+  "lines": {
+   "source": 291,
+   "compressed": 119,
+   "retained_pct": 40.89,
+   "reduction_pct": 59.11
+  },
+  "o200k_base": {
+   "source": 3491,
+   "compressed": 3098,
+   "retained_pct": 88.74,
+   "reduction_pct": 11.26
+  },
+  "cl100k_base": {
+   "source": 3504,
+   "compressed": 3094,
+   "retained_pct": 88.3,
+   "reduction_pct": 11.7
+  }
+ },
+ "OVERALL": "FAIL"
+}

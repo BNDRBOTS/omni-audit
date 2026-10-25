@@ -1,0 +1,70 @@
+{
+ "metrics": {
+  "chars": {
+   "source": 20140,
+   "compressed": 19111,
+   "retained_pct": 94.89,
+   "reduction_pct": 5.11
+  },
+  "words": {
+   "source": 2320,
+   "compressed": 2173,
+   "retained_pct": 93.66,
+   "reduction_pct": 6.34
+  },
+  "lines": {
+   "source": 291,
+   "compressed": 114,
+   "retained_pct": 39.18,
+   "reduction_pct": 60.82
+  },
+  "o200k_base": {
+   "source": 3491,
+   "compressed": 2928,
+   "retained_pct": 83.87,
+   "reduction_pct": 16.13
+  },
+  "cl100k_base": {
+   "source": 3504,
+   "compressed": 2924,
+   "retained_pct": 83.45,
+   "reduction_pct": 16.55
+  }
+ },
+ "per_section_tokens": {
+  "source": {
+   "0": 203,
+   "1": 238,
+   "2": 237,
+   "3": 246,
+   "4": 240,
+   "5": 274,
+   "6": 274,
+   "7": 151,
+   "8": 302,
+   "9": 181,
+   "10": 169,
+   "11": 335,
+   "12": 181,
+   "13": 239,
+   "14": 325
+  },
+  "compressed": {
+   "0": 265,
+   "1": 185,
+   "2": 181,
+   "3": 184,
+   "4": 187,
+   "5": 214,
+   "6": 222,
+   "7": 112,
+   "8": 233,
+   "9": 154,
+   "10": 142,
+   "11": 259,
+   "12": 130,
+   "13": 213,
+   "14": 263
+  }
+ }
+}
